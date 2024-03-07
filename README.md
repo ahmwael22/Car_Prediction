@@ -6,12 +6,12 @@
 
 <!-- Create a list of points -->
 <ul class="point-list">
-  <li><a href="#Importing libraries">Point 1</a></li>
-  <li><a href="#Read_data">Point 2</a></li>
-  <li><a href="#Data_Exoplaration">Point 3</a></li>
-    <li><a href="#Data_cleaning And preprocessing">Point 3</a></li>
-    <li><a href="# Data_Visualization">Point 3</a></li>
-     <li><a href="#Model_Traning">Point 3</a></li>
+  <li><a href="#Importing libraries">Importing libraries</a></li>
+  <li><a href="#Read_data">Read_data</a></li>
+  <li><a href="#Data_Exoplaration">Data_Exoplaration</a></li>
+    <li><a href="#Data_cleaning And preprocessing">Data_cleaning And preprocessing</a></li>
+    <li><a href="# Data_Visualization">Data_Visualization</a></li>
+     <li><a href="#Model_Traning">Model_Traning</a></li>
 
 </ul>
 
