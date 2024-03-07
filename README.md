@@ -40,7 +40,7 @@
   <p>here i make a fuction that generate relation plot of kind scatter plot that give us the intuition of the relation between "selling_price" and other columns .</p>
 </div>
 <div id="Model_Traning">
-  <h2> Data_Visualization </h2>
+  <h2>Model_Traning </h2>
   <p>here i chosse LinerRegression () model to predict the future input and but when i found that the accuracy of the model is not satisfied because the outliers of "selling_price" i replace the input with log("selling_price") then drop selling_price column .</p>
 </div>
 
